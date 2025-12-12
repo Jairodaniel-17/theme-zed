@@ -1,0 +1,7 @@
+id = "Fluffusion"
+name = "Fluffusion"
+schema_version = 1
+version = "0.2.24"
+authors = ["Fluffusion <jairodaniel.mt.trabajo@gmail.com>"]
+description = "🦀 Soothing pastel theme for Zed"
+repository = "https://github.com/Jairodaniel-17/theme-zed"

@@ -1,0 +1,4 @@
+**/.DS_Store
+themes/*
+!themes/*mauve*.json
+!themes/fluffusion.json
